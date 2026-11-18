@@ -1,5 +1,5 @@
 (function() {
-//    'use strict';
+    'use strict';
 
     const pageWin = (typeof unsafeWindow !== 'undefined') ? unsafeWindow : window;
 
