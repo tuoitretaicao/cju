@@ -271,7 +271,7 @@
 
                 widget.innerHTML = `
                     <div style="display:flex; justify-content:space-between; align-items:center; gap: 8px;">
-                        <b style="color:#38bdf8;">⚡ CJU HIVE Auto v4.0</b>
+                        <b style="color:#38bdf8;">⚡ CJU HIVE Auto v1.0</b>
                         <button id="cju-toggle-btn" style="
                             padding: 4px 10px; border: none; border-radius: 4px; cursor: pointer;
                             font-weight: bold; font-size: 11px; background: ${isEnabled ? '#22c55e' : '#ef4444'}; color: #fff;
